@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    margin: 100px;
+    background-size: cover;
+}
+h2 {
+    margin-bottom : 10px;
+    color:green
+}
+h4 {
+    color:black;
+    text-align: left;
+}
+
+p {
+    color:black;
+    font-size: 15px;
+    text-align: left;
+    
+}
+
+input {
+    padding: 5px;
+    margin-right: 7px;
+    width: 25%;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;   
+}
+button:hover {
+    background-color: #008CBA; 
+    color: white; 
+  }
+
+
+
+label {
+    color:darkslategrey
+}
+#output {
+    color:darkslategrey
+}
+
+
+#matrix {
+    display: inline-block;
+    border: 3px solid grey;
+    padding: 10px;
+    text-align: center; 
+    width:80px;
+    text-align: center; /* Center the text content horizontally */
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center the flex items horizontally */
+    align-items: center; 
+    margin: 0 auto;
+}
+table {
+    color:brown;
+}
+
